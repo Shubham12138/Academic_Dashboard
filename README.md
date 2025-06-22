@@ -14,9 +14,6 @@ A modern, neon-themed React dashboard for online learning, built with Vite. Feat
 - **Premium section**: Anchored to sidebar bottom
 - **Responsive, tech-inspired UI**: Orbitron font, gradients, glowing effects
 
-## Demo
-
-![screenshot](public/vite.svg)
 
 ## Getting Started
 
